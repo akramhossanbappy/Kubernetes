@@ -36,6 +36,11 @@
     sudo mv kops-linux-amd64 /usr/local/bin/kops
     ```
 1. Create a Route53 private hosted zone (you can create Public hosted zone if you have a domain)
+   Now i don't have domain So, I create private hosted zone on route53
+   Follow this for crete private zone
+   ```sh
+    https://prnt.sc/sonmnx
+   ```
 1. create an S3 bucket 
    ```sh
     aws s3 mb s3://dev.k8s.valaxy.in
