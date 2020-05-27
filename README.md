@@ -40,9 +40,7 @@ https://prnt.sc/soo6ex
    Now i don't have domain So, I create private hosted zone on route53
    Follow this for crete private zone
    https://prnt.sc/sonmnx
-   ```sh
-    https://prnt.sc/sonmnx
-   ```
+
 1. create an S3 bucket 
    ```sh
     aws s3 mb s3://dev.k8s.kubernete.in
