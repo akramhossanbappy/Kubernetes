@@ -38,6 +38,7 @@
 1. Create a Route53 private hosted zone (you can create Public hosted zone if you have a domain)
    Now i don't have domain So, I create private hosted zone on route53
    Follow this for crete private zone
+   https://prnt.sc/sonmnx
    ```sh
     https://prnt.sc/sonmnx
    ```
