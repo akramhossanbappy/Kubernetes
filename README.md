@@ -4,7 +4,7 @@
 
 1. Create Ubuntu 18.04 EC2 instance
 1. install AWSCLI
-   ```sh 
+   ```sh  
     curl https://s3.amazonaws.com/aws-cli/awscli-bundle.zip -o awscli-bundle.zip
     apt install unzip python
     unzip awscli-bundle.zip
@@ -24,6 +24,10 @@
     #### Note: If you create IAM user with programmatic access then provide Access keys. 
    ```sh 
      aws configure
+     AWS Access Key ID:
+     AWS Secret Access Key:
+     Default region name:
+     Default output format:
     ```
 1. Install kops on ubuntu instance:
    ```sh
