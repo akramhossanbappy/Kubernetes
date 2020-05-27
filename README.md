@@ -19,7 +19,7 @@
     sudo mv ./kubectl /usr/local/bin/kubectl
    ```
 1. Create an IAM user/role  with Route53, EC2, IAM and S3 full access
- ##### https://prnt.sc/soo6ex
+    ##### https://prnt.sc/soo6ex
 1. Attach IAM role to ubuntu server
 
     #### Note: If you create IAM user with programmatic access then provide Access keys. 
@@ -39,7 +39,7 @@
 1. Create a Route53 private hosted zone (you can create Public hosted zone if you have a domain)
    Now i don't have domain So, I create private hosted zone on route53
    Follow this for crete private zone
-   https://prnt.sc/sonmnx
+   ##### https://prnt.sc/sonmnx
 
 1. create an S3 bucket 
    ```sh
